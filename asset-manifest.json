@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/tiempo-app/static/css/main.1dc8bab6.chunk.css",
-    "main.js": "/tiempo-app/static/js/main.9595abd5.chunk.js",
-    "main.js.map": "/tiempo-app/static/js/main.9595abd5.chunk.js.map",
-    "runtime-main.js": "/tiempo-app/static/js/runtime-main.d0d9e4f9.js",
-    "runtime-main.js.map": "/tiempo-app/static/js/runtime-main.d0d9e4f9.js.map",
-    "static/js/2.8412b3c7.chunk.js": "/tiempo-app/static/js/2.8412b3c7.chunk.js",
-    "static/js/2.8412b3c7.chunk.js.map": "/tiempo-app/static/js/2.8412b3c7.chunk.js.map",
-    "static/js/3.4b1b1c05.chunk.js": "/tiempo-app/static/js/3.4b1b1c05.chunk.js",
-    "static/js/3.4b1b1c05.chunk.js.map": "/tiempo-app/static/js/3.4b1b1c05.chunk.js.map",
+    "main.css": "/tiempo-app/static/css/main.9013b5c2.chunk.css",
+    "main.js": "/tiempo-app/static/js/main.6c819f08.chunk.js",
+    "main.js.map": "/tiempo-app/static/js/main.6c819f08.chunk.js.map",
+    "runtime-main.js": "/tiempo-app/static/js/runtime-main.11fe0b17.js",
+    "runtime-main.js.map": "/tiempo-app/static/js/runtime-main.11fe0b17.js.map",
+    "static/js/2.655c6c27.chunk.js": "/tiempo-app/static/js/2.655c6c27.chunk.js",
+    "static/js/2.655c6c27.chunk.js.map": "/tiempo-app/static/js/2.655c6c27.chunk.js.map",
+    "static/js/3.e41bf70d.chunk.js": "/tiempo-app/static/js/3.e41bf70d.chunk.js",
+    "static/js/3.e41bf70d.chunk.js.map": "/tiempo-app/static/js/3.e41bf70d.chunk.js.map",
     "index.html": "/tiempo-app/index.html",
-    "static/css/main.1dc8bab6.chunk.css.map": "/tiempo-app/static/css/main.1dc8bab6.chunk.css.map",
-    "static/js/2.8412b3c7.chunk.js.LICENSE.txt": "/tiempo-app/static/js/2.8412b3c7.chunk.js.LICENSE.txt",
-    "static/media/fondo.e6ae7e8e.jpg": "/tiempo-app/static/media/fondo.e6ae7e8e.jpg"
+    "static/css/main.9013b5c2.chunk.css.map": "/tiempo-app/static/css/main.9013b5c2.chunk.css.map",
+    "static/js/2.655c6c27.chunk.js.LICENSE.txt": "/tiempo-app/static/js/2.655c6c27.chunk.js.LICENSE.txt",
+    "static/media/fondo.e6ae7e8e.jpg": "/tiempo-app/static/media/fondo.e6ae7e8e.jpg",
+    "static/media/pinAndSearch27.3665d922.svg": "/tiempo-app/static/media/pinAndSearch27.3665d922.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0d9e4f9.js",
-    "static/js/2.8412b3c7.chunk.js",
-    "static/css/main.1dc8bab6.chunk.css",
-    "static/js/main.9595abd5.chunk.js"
+    "static/js/runtime-main.11fe0b17.js",
+    "static/js/2.655c6c27.chunk.js",
+    "static/css/main.9013b5c2.chunk.css",
+    "static/js/main.6c819f08.chunk.js"
   ]
 }
