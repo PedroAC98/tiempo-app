@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/tiempo-app/static/css/main.d5deaeb1.chunk.css",
-    "main.js": "/tiempo-app/static/js/main.ed14ab83.chunk.js",
-    "main.js.map": "/tiempo-app/static/js/main.ed14ab83.chunk.js.map",
-    "runtime-main.js": "/tiempo-app/static/js/runtime-main.79a9608b.js",
-    "runtime-main.js.map": "/tiempo-app/static/js/runtime-main.79a9608b.js.map",
-    "static/js/2.9353c11b.chunk.js": "/tiempo-app/static/js/2.9353c11b.chunk.js",
-    "static/js/2.9353c11b.chunk.js.map": "/tiempo-app/static/js/2.9353c11b.chunk.js.map",
-    "static/js/3.f12cfd16.chunk.js": "/tiempo-app/static/js/3.f12cfd16.chunk.js",
-    "static/js/3.f12cfd16.chunk.js.map": "/tiempo-app/static/js/3.f12cfd16.chunk.js.map",
+    "main.css": "/tiempo-app/static/css/main.1dc8bab6.chunk.css",
+    "main.js": "/tiempo-app/static/js/main.9595abd5.chunk.js",
+    "main.js.map": "/tiempo-app/static/js/main.9595abd5.chunk.js.map",
+    "runtime-main.js": "/tiempo-app/static/js/runtime-main.d0d9e4f9.js",
+    "runtime-main.js.map": "/tiempo-app/static/js/runtime-main.d0d9e4f9.js.map",
+    "static/js/2.8412b3c7.chunk.js": "/tiempo-app/static/js/2.8412b3c7.chunk.js",
+    "static/js/2.8412b3c7.chunk.js.map": "/tiempo-app/static/js/2.8412b3c7.chunk.js.map",
+    "static/js/3.4b1b1c05.chunk.js": "/tiempo-app/static/js/3.4b1b1c05.chunk.js",
+    "static/js/3.4b1b1c05.chunk.js.map": "/tiempo-app/static/js/3.4b1b1c05.chunk.js.map",
     "index.html": "/tiempo-app/index.html",
-    "static/css/main.d5deaeb1.chunk.css.map": "/tiempo-app/static/css/main.d5deaeb1.chunk.css.map",
-    "static/js/2.9353c11b.chunk.js.LICENSE.txt": "/tiempo-app/static/js/2.9353c11b.chunk.js.LICENSE.txt"
+    "static/css/main.1dc8bab6.chunk.css.map": "/tiempo-app/static/css/main.1dc8bab6.chunk.css.map",
+    "static/js/2.8412b3c7.chunk.js.LICENSE.txt": "/tiempo-app/static/js/2.8412b3c7.chunk.js.LICENSE.txt",
+    "static/media/fondo.e6ae7e8e.jpg": "/tiempo-app/static/media/fondo.e6ae7e8e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79a9608b.js",
-    "static/js/2.9353c11b.chunk.js",
-    "static/css/main.d5deaeb1.chunk.css",
-    "static/js/main.ed14ab83.chunk.js"
+    "static/js/runtime-main.d0d9e4f9.js",
+    "static/js/2.8412b3c7.chunk.js",
+    "static/css/main.1dc8bab6.chunk.css",
+    "static/js/main.9595abd5.chunk.js"
   ]
 }
