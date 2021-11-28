@@ -42,7 +42,9 @@ function a11yProps(index) {
     };
 }
 
-export default function DaySelector() {
+
+
+export default function DaySelector(prop) {
 
 
     const theme = useTheme();
@@ -84,15 +86,17 @@ export default function DaySelector() {
            <Box sx={{ bgcolor: 'background.paper' }}>
                 <TabPanel value={value} index={0} dir={theme.direction} >
                     <div className="card__hour--container" >
+                        {/* <div>{prop.arr}</div> */}
+                        <CardHour array={prop.arr} data={data}></CardHour>
+
+                        {/* <CardHour data={data}></CardHour>
                         <CardHour data={data}></CardHour>
                         <CardHour data={data}></CardHour>
                         <CardHour data={data}></CardHour>
                         <CardHour data={data}></CardHour>
                         <CardHour data={data}></CardHour>
                         <CardHour data={data}></CardHour>
-                        <CardHour data={data}></CardHour>
-                        <CardHour data={data}></CardHour>
-                        <CardHour data={data}></CardHour>
+                        <CardHour data={data}></CardHour> */}
 
                     </div>
                 </TabPanel>

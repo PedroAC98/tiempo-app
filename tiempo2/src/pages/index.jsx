@@ -14,8 +14,8 @@ export default function Page() {
     return(
         <div style={page_container}>
             <SwitchNavigationContainer></SwitchNavigationContainer>
-            <CardActualDay></CardActualDay>
-            <DaySelector></DaySelector>
+            {/* <CardActualDay></CardActualDay> */}
+            {/* <DaySelector></DaySelector> */}
         </div>   
     )
 }

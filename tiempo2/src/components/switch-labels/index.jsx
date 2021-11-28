@@ -74,7 +74,7 @@ export default function SwitchLabels() {
   const label = { componentsProps: { input: { 'aria-label': 'Demo switch' }} };
   
   const[grados, setGrados] = useContext(GradosContext); // Contexto Celsius/Farenheit
-    const[grado, setGrado]  = useState('ºC')   // Label ºC ºF
+    const[grado, setGrado]  = useState('ºCfff')   // Label ºC ºF
     const handleChange = ()=>{
        grados === 'celsius' ? setGrados('farenheit') : setGrados('celsius')
        grado === 'ºC' ? setGrado('ºF') : setGrado('ºC')

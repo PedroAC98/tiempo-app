@@ -8,7 +8,7 @@ export default function SwitchNavigationContainer() {
     return(
         <Box sx={{ width: '100%', bgcolor: 'transparent' }} className='switchNavigationContainer' >
             <GeoButton></GeoButton>
-            <SwitchLabels></SwitchLabels>
+            {/* <SwitchLabels></SwitchLabels> */}
         </Box>
     )
 }
