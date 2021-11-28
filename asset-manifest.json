@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tiempo-app/static/css/main.d40b0d94.chunk.css",
-    "main.js": "/tiempo-app/static/js/main.2b922657.chunk.js",
-    "main.js.map": "/tiempo-app/static/js/main.2b922657.chunk.js.map",
+    "main.css": "/tiempo-app/static/css/main.73400e6c.chunk.css",
+    "main.js": "/tiempo-app/static/js/main.d58f7fdf.chunk.js",
+    "main.js.map": "/tiempo-app/static/js/main.d58f7fdf.chunk.js.map",
     "runtime-main.js": "/tiempo-app/static/js/runtime-main.457a3983.js",
     "runtime-main.js.map": "/tiempo-app/static/js/runtime-main.457a3983.js.map",
-    "static/js/2.0231d15e.chunk.js": "/tiempo-app/static/js/2.0231d15e.chunk.js",
-    "static/js/2.0231d15e.chunk.js.map": "/tiempo-app/static/js/2.0231d15e.chunk.js.map",
+    "static/js/2.f35e9ac5.chunk.js": "/tiempo-app/static/js/2.f35e9ac5.chunk.js",
+    "static/js/2.f35e9ac5.chunk.js.map": "/tiempo-app/static/js/2.f35e9ac5.chunk.js.map",
     "static/js/3.b5867551.chunk.js": "/tiempo-app/static/js/3.b5867551.chunk.js",
     "static/js/3.b5867551.chunk.js.map": "/tiempo-app/static/js/3.b5867551.chunk.js.map",
     "index.html": "/tiempo-app/index.html",
-    "static/css/main.d40b0d94.chunk.css.map": "/tiempo-app/static/css/main.d40b0d94.chunk.css.map",
-    "static/js/2.0231d15e.chunk.js.LICENSE.txt": "/tiempo-app/static/js/2.0231d15e.chunk.js.LICENSE.txt",
+    "static/css/main.73400e6c.chunk.css.map": "/tiempo-app/static/css/main.73400e6c.chunk.css.map",
+    "static/js/2.f35e9ac5.chunk.js.LICENSE.txt": "/tiempo-app/static/js/2.f35e9ac5.chunk.js.LICENSE.txt",
     "static/media/fondo.e6ae7e8e.jpg": "/tiempo-app/static/media/fondo.e6ae7e8e.jpg",
     "static/media/pinAndSearch27.3665d922.svg": "/tiempo-app/static/media/pinAndSearch27.3665d922.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.457a3983.js",
-    "static/js/2.0231d15e.chunk.js",
-    "static/css/main.d40b0d94.chunk.css",
-    "static/js/main.2b922657.chunk.js"
+    "static/js/2.f35e9ac5.chunk.js",
+    "static/css/main.73400e6c.chunk.css",
+    "static/js/main.d58f7fdf.chunk.js"
   ]
 }
